@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.6.9)  20 NOV 2012 10:55
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.6.9)  26 JUN 2013 18:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -322,140 +322,168 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
 LaTeX Font Info:    ... okay on input line 113.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
 LaTeX Font Info:    ... okay on input line 113.
-
-Runaway argument?
-{\iid (1) Informatics Department, J. Craig Venter Institute, 10355 Sc\ETC.
-./bmc_article.tex:166: Paragraph ended before \address was complete.
-<to be read again> 
-                   \par 
-l.166 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-./bmc_article.tex:167: Extra }, or forgotten \endgroup.
-l.167 }
-       %
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-Underfull \hbox (badness 1221) in paragraph at lines 169--169
-\OT1/cmss/bx/n/17.28 Bioinformatics Com-put-ing on Pri-vate Clouds with the
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 169.
+(Font)              <12> on input line 165.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 169.
+(Font)              <8> on input line 165.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 169.
-./bmc_article.tex:169: Undefined control sequence.
-<argument> ... {\raggedright {\noindent \@address 
-                                                  }\\ \hbox {} {\noindent \@...
-l.169 \maketitle
+(Font)              <6> on input line 165.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 165.
+
+
+./bmc_article.tex:165: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.165 \maketitle
                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 169.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 169.
+(Font)              <7> on input line 165.
 
-Overfull \hbox (9.99998pt too wide) in paragraph at lines 169--169
+Overfull \hbox (9.99998pt too wide) in paragraph at lines 165--165
 []  
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 235--237
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 240--242
-
  []
 
 [1
 
 {/usr/local/texlive/2011basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 254--257
+Underfull \hbox (badness 10000) in paragraph at lines 225--231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 259--264
+Underfull \hbox (badness 10000) in paragraph at lines 232--240
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--269
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 271--272
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 268--276
+
+ []
+
+[3] [4]
+
+./bmc_article.tex:333: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.333 \pb
+         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 337--339
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 352--354
 
  []
 
-[3] (./bmc_article.bbl
 
-LaTeX Warning: Empty `thebibliography' environment on input line 7.
+Underfull \hbox (badness 10000) in paragraph at lines 355--358
 
-) [4] (./bmc_article.aux) ) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--365
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--370
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
+
+ []
+
+
+./bmc_article.tex:377: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.377 \pb
+         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./bmc_article.tex:380: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.380 \pb
+         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[7] (./bmc_article.bbl
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 29.
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+[]\OT1/cmr/bx/n/9 Amazon S3 Fire-fox browser ex-ten-sion$\OT1/cmr/m/n/9 [https 
+: / / addons . mozilla . org / en-[]US / ^^Lrefox / addon /
+ []
+
+) [8] (./bmc_article.aux) ) 
 Here is how much of TeX's memory you used:
- 803 strings out of 494752
- 9337 string characters out of 3171021
- 58534 words of memory out of 3000000
- 4045 multiletter control sequences out of 15000+200000
- 10865 words of font info for 38 fonts, out of 3000000 for 9000
+ 827 strings out of 494752
+ 9574 string characters out of 3171021
+ 61534 words of memory out of 3000000
+ 4068 multiletter control sequences out of 15000+200000
+ 11309 words of font info for 39 fonts, out of 3000000 for 9000
  166 hyphenation exceptions out of 8191
- 29i,8n,21p,153b,243s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,5n,21p,210b,398s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011basic/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2011basic/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011basic/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2011basic/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011basic/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2011basic/texmf
--dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2011basic/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2011basi
-c/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/20
-11basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive
-/2011basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texl
-ive/2011basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/
-texlive/2011basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on bmc_article.pdf (4 pages, 134042 bytes).
+/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2011basic/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011basic/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2011basic/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011basic/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2011basic/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2011basic/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2011ba
+sic/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/201
+1basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texli
+ve/2011basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/te
+xlive/2011basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
+/texlive/2011basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on bmc_article.pdf (8 pages, 188773 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 83 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

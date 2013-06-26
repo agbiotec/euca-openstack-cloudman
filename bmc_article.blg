@@ -2,7 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2011)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: bmc_article.aux
 The style file: bmc_article.bst
-I found no \citation commands---while reading file bmc_article.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=5001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -10,45 +9,63 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bmc_article.bib
-You've used 0 entries,
+Warning--entry type for "eucacache" isn't style-file defined
+--line 12 of file bmc_article.bib
+Warning--entry type for "aws2ools" isn't style-file defined
+--line 18 of file bmc_article.bib
+Warning--entry type for "eucadocs" isn't style-file defined
+--line 24 of file bmc_article.bib
+Warning--entry type for "cyberduck" isn't style-file defined
+--line 51 of file bmc_article.bib
+Warning--entry type for "s3fox" isn't style-file defined
+--line 196 of file bmc_article.bib
+Warning--entry type for "soap" isn't style-file defined
+--line 313 of file bmc_article.bib
+Warning--entry type for "ebs" isn't style-file defined
+--line 366 of file bmc_article.bib
+Warning--entry type for "s3" isn't style-file defined
+--line 469 of file bmc_article.bib
+Warning--entry type for "euca" isn't style-file defined
+--line 722 of file bmc_article.bib
+You've used 20 entries,
             3603 wiz_defined-function locations,
-            691 strings with 5035 characters,
-and the built_in function-call counts, 40 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 8
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+            774 strings with 7243 characters,
+and the built_in function-call counts, 25667 in all, are:
+= -- 2418
+> -- 101
+< -- 35
++ -- 129
+- -- 27
+* -- 2405
+:= -- 4504
+add.period$ -- 25
+call.type$ -- 20
+change.case$ -- 30
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 20
+duplicate$ -- 1713
+empty$ -- 1880
+format.name$ -- 115
+if$ -- 5250
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 16
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 40
+missing$ -- 846
+newline$ -- 233
+num.names$ -- 11
+pop$ -- 807
 preamble$ -- 1
 purify$ -- 0
-quote$ -- 0
-skip$ -- 1
+quote$ -- 40
+skip$ -- 626
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 3515
+swap$ -- 348
+text.length$ -- 27
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 30
 warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 10
-(There was 1 error message)
+while$ -- 83
+width$ -- 22
+write$ -- 366
+(There were 9 warnings)

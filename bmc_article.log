@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.6.9)  26 JUN 2013 18:01
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.6.9)  3 JUL 2013 18:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -354,136 +354,108 @@ Overfull \hbox (9.99998pt too wide) in paragraph at lines 165--165
 [1
 
 {/usr/local/texlive/2011basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 225--231
+
+LaTeX Warning: Reference `Stein2010' on page 2 undefined on input line 227.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--233
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--240
+Underfull \hbox (badness 10000) in paragraph at lines 234--245
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--242
+LaTeX Warning: Citation `backmann2012xsede' on page 2 undefined on input line 2
+53.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--256
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
+Underfull \hbox (badness 10000) in paragraph at lines 257--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--276
+./bmc_article.tex:277: Package inputenc Error: Keyboard character used is undef
+ined
+(inputenc)                in inputencoding `utf8'.
 
- []
-
-[3] [4]
-
-./bmc_article.tex:333: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
+See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.333 \pb
-         
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.277 ...or genome sequencing informatics, and ^^P
+                                                  as result transform the an...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 283--289
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--313
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 314--321
+
+ []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 337--339
+Underfull \hbox (badness 10000) in paragraph at lines 343--350
+
+ []
+
+[6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 401--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--354
+Underfull \hbox (badness 10000) in paragraph at lines 407--409
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 355--358
+Underfull \hbox (badness 10000) in paragraph at lines 422--425
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 427--432
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--365
+Underfull \hbox (badness 10000) in paragraph at lines 443--445
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--370
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 374--375
+[9]
 
- []
-
-
-./bmc_article.tex:377: LaTeX Error: There's no line here to end.
+./bmc_article.tex:452: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
-                                                  
-l.377 \pb
-         
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-./bmc_article.tex:380: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.380 \pb
-         
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[7] (./bmc_article.bbl
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 29.
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
-[]\OT1/cmr/bx/n/9 Amazon S3 Fire-fox browser ex-ten-sion$\OT1/cmr/m/n/9 [https 
-: / / addons . mozilla . org / en-[]US / ^^Lrefox / addon /
- []
-
-) [8] (./bmc_article.aux) ) 
-Here is how much of TeX's memory you used:
- 827 strings out of 494752
- 9574 string characters out of 3171021
- 61534 words of memory out of 3000000
- 4068 multiletter control sequences out of 15000+200000
- 11309 words of font info for 39 fonts, out of 3000000 for 9000
- 166 hyphenation exceptions out of 8191
- 29i,5n,21p,210b,398s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2011basic/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2011basic/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2011basic/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2011basic/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2011basic/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2011basic/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2011basic/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2011basic/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2011ba
-sic/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/201
-1basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texli
-ve/2011basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/te
-xlive/2011basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
-/texlive/2011basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on bmc_article.pdf (8 pages, 188773 bytes).
-PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+             

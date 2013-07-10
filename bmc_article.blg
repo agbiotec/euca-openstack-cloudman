@@ -10,62 +10,81 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bmc_article.bib
 Warning--entry type for "eucacache" isn't style-file defined
---line 12 of file bmc_article.bib
+--line 31 of file bmc_article.bib
 Warning--entry type for "aws2ools" isn't style-file defined
---line 18 of file bmc_article.bib
+--line 37 of file bmc_article.bib
 Warning--entry type for "eucadocs" isn't style-file defined
---line 24 of file bmc_article.bib
+--line 43 of file bmc_article.bib
+Warning--entry type for "ecc" isn't style-file defined
+--line 49 of file bmc_article.bib
 Warning--entry type for "cyberduck" isn't style-file defined
---line 51 of file bmc_article.bib
+--line 70 of file bmc_article.bib
 Warning--entry type for "s3fox" isn't style-file defined
---line 196 of file bmc_article.bib
+--line 215 of file bmc_article.bib
 Warning--entry type for "soap" isn't style-file defined
---line 313 of file bmc_article.bib
+--line 332 of file bmc_article.bib
 Warning--entry type for "ebs" isn't style-file defined
---line 366 of file bmc_article.bib
+--line 385 of file bmc_article.bib
 Warning--entry type for "s3" isn't style-file defined
---line 469 of file bmc_article.bib
+--line 488 of file bmc_article.bib
+Warning--entry type for "cblorg" isn't style-file defined
+--line 495 of file bmc_article.bib
+Warning--entry type for "vbox" isn't style-file defined
+--line 502 of file bmc_article.bib
+Warning--entry type for "openstackinstalls" isn't style-file defined
+--line 509 of file bmc_article.bib
+Warning--entry type for "magellan" isn't style-file defined
+--line 516 of file bmc_article.bib
+Warning--entry type for "eucalyptusother" isn't style-file defined
+--line 523 of file bmc_article.bib
+Warning--entry type for "openstackother" isn't style-file defined
+--line 530 of file bmc_article.bib
+Warning--entry type for "ubuntucloud" isn't style-file defined
+--line 537 of file bmc_article.bib
+Warning--entry type for "openstack" isn't style-file defined
+--line 544 of file bmc_article.bib
 Warning--entry type for "euca" isn't style-file defined
---line 722 of file bmc_article.bib
-You've used 20 entries,
+--line 741 of file bmc_article.bib
+Warning--I didn't find a database entry for "backmann2012xsede"
+You've used 36 entries,
             3603 wiz_defined-function locations,
-            774 strings with 7243 characters,
-and the built_in function-call counts, 25667 in all, are:
-= -- 2418
-> -- 101
-< -- 35
-+ -- 129
-- -- 27
-* -- 2405
-:= -- 4504
-add.period$ -- 25
-call.type$ -- 20
-change.case$ -- 30
+            850 strings with 9146 characters,
+and the built_in function-call counts, 47409 in all, are:
+= -- 4425
+> -- 213
+< -- 78
++ -- 272
+- -- 59
+* -- 4676
+:= -- 8248
+add.period$ -- 47
+call.type$ -- 36
+change.case$ -- 66
 chr.to.int$ -- 0
-cite$ -- 20
-duplicate$ -- 1713
-empty$ -- 1880
-format.name$ -- 115
-if$ -- 5250
+cite$ -- 36
+duplicate$ -- 3276
+empty$ -- 3443
+format.name$ -- 260
+if$ -- 9616
 int.to.chr$ -- 0
-int.to.str$ -- 40
-missing$ -- 846
-newline$ -- 233
-num.names$ -- 11
-pop$ -- 807
+int.to.str$ -- 72
+missing$ -- 1554
+newline$ -- 443
+num.names$ -- 24
+pop$ -- 1415
 preamble$ -- 1
 purify$ -- 0
-quote$ -- 40
-skip$ -- 626
+quote$ -- 72
+skip$ -- 1061
 stack$ -- 0
-substring$ -- 3515
-swap$ -- 348
-text.length$ -- 27
+substring$ -- 6278
+swap$ -- 694
+text.length$ -- 50
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 30
+type$ -- 48
 warning$ -- 0
-while$ -- 83
-width$ -- 22
-write$ -- 366
-(There were 9 warnings)
+while$ -- 173
+width$ -- 38
+write$ -- 735
+(There were 19 warnings)
